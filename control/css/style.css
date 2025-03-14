@@ -1,0 +1,53 @@
+html{
+    background-color: brown;
+    align-content: center;
+    text-align: center;
+    font-family: 'Kanit';
+    font-size: 20px;
+    color: gold;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.285);
+    border: 2px solid gold;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 8%;
+    margin-inline: 30%;
+    border-radius: 10px;
+}
+
+form{
+    margin: 20px;
+}
+input{
+    padding: 10px;
+    padding-inline: 30px;
+    width: 50%;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid gold;
+    background-color: rgba(0, 0, 0, 0.285);
+    color: gold;
+}
+
+.btn:hover{
+    background-color: gold;
+    color: brown;
+}
+
+.verde{
+    background-color: rgba(0, 128, 0, 0.837);
+    width: 80%;
+    margin-inline: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.azul{
+    background-color: rgba(0, 0, 128, 0.726);
+    width: 80%;
+    margin-inline: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
